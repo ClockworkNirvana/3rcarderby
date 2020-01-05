@@ -2,6 +2,11 @@
 
 Purpose: Allocate scores based on distance a car travelled
 
+Files:
+    1. main.py - Main python Script
+    2. README - Instructions
+    3. results.py - sample csv file
+    
 Step by step on how to use
 
     1. Change the variable 'bands' to the number of scoring bands required
