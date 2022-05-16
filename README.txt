@@ -37,4 +37,4 @@ How to read the results (Notepad)
     Value before the comma is the team name
     Value after the comma is the score given based on the distance travelled
 
-Made by: Jonathan Teo, Venture 2020
+Made by: 01 Ventures 2020
